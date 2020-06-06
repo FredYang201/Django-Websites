@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==2.2.13
 gunicorn==20.0.4
 Pillow==6.2.1
 pytz==2019.3
